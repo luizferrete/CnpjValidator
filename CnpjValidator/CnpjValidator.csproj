@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  
+	<PackageId>CnpjValidator</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>Luiz Augusto Ferrete</Authors>
+	<Product>CnpjValidator</Product>
+	<Description>Uma biblioteca para validar o novo formato de CNPJ com números e letras.</Description>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageProjectUrl>https://github.com/luizferrete/CnpjValidator</PackageProjectUrl>
+	<!--<PackageIcon>icon.png</PackageIcon>-->
+	<RepositoryUrl>https://github.com/luizferrete/CnpjValidator</RepositoryUrl>
+	<RepositoryType>Git</RepositoryType>
+  </PropertyGroup>
+
+</Project>

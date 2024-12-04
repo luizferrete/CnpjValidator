@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CnpjValidator", "CnpjValidator\CnpjValidator.csproj", "{FB6EC198-B123-4410-AC51-85E04EBF2E18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2595C0FB-DFA6-4BC9-BD47-9D4CC98DE129}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CnpjValidatorTests", "CnpjValidatorTests\CnpjValidatorTests.csproj", "{D20F5471-4FA3-48D7-B022-3C0417D05B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6EC198-B123-4410-AC51-85E04EBF2E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6EC198-B123-4410-AC51-85E04EBF2E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6EC198-B123-4410-AC51-85E04EBF2E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6EC198-B123-4410-AC51-85E04EBF2E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20F5471-4FA3-48D7-B022-3C0417D05B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20F5471-4FA3-48D7-B022-3C0417D05B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20F5471-4FA3-48D7-B022-3C0417D05B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20F5471-4FA3-48D7-B022-3C0417D05B57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8BE10C1-71F7-4502-AC64-99B70675989A}
+	EndGlobalSection
+EndGlobal
